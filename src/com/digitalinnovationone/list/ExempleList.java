@@ -1,6 +1,7 @@
 package com.digitalinnovationone.list;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class ExempleList {
@@ -12,6 +13,10 @@ public class ExempleList {
         nomes.add("Pedro");
         nomes.add("Juliana");
         nomes.add("João");
+
+        System.out.println(nomes);
+
+        Collections.sort(nomes);
 
         System.out.println(nomes);
     }

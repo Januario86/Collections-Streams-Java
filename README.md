@@ -6,7 +6,7 @@
 
 ### List
 
-1- Criando Lista de nomes com tipo String Import java.util.List
-2- Utilizando o método sort  Import java.util.Collections
+- [x] Criando Lista de nomes com tipo String Import java.util.List
+- [x] Utilizando o método sort para ordenação da Lista  Import java.util.Collections
 
 

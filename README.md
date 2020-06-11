@@ -8,5 +8,5 @@
 
 - [x] Criando Lista de nomes com tipo String Import java.util.List
 - [x] Utilizando o método sort para ordenação da Lista  Import java.util.Collections
-
+- [x] Alterando o índice substituindo o valor elemento através do método set
 

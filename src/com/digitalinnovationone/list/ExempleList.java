@@ -16,6 +16,11 @@ public class ExempleList {
 
         System.out.println(nomes);
 
+        //Altera o índice dois substituindo o valor elemento
+        nomes.set(2,"Larissa");
+
+        System.out.println(nomes);
+
         Collections.sort(nomes);
 
         System.out.println(nomes);

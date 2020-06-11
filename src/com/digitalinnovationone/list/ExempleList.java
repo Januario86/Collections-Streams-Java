@@ -24,5 +24,9 @@ public class ExempleList {
         Collections.sort(nomes);
 
         System.out.println(nomes);
+
+        nomes.remove( 3);
+
+        System.out.println(nomes);
     }
 }

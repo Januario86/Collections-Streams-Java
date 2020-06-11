@@ -28,5 +28,14 @@ public class ExempleList {
         nomes.remove( 3);
 
         System.out.println(nomes);
+
+        String nome = nomes.get(1);
+
+        int tamanho = nomes.size();
+
+        System.out.println(nome);
+        System.out.println(tamanho);
+
+
     }
 }

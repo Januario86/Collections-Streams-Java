@@ -18,3 +18,4 @@
 - [x] Limpa a lista clear()
 - [x] ForEach para percorrer os elementos da lista
 - [x] Iterator com hasNext() para percorre a lista utilizando o while()
+- [x] Implementações utilizando Vector

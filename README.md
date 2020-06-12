@@ -16,3 +16,4 @@
 - [x] Descobrindo a posição do elemento passando o valor como parâmetro, via indexOf()
 - [x] Valida se a lista está vazia isEmpty()
 - [x] Limpa a lista clear()
+- [x] ForEach para percorrer os elementos da lista

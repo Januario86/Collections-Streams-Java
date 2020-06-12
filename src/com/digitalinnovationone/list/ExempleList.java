@@ -44,9 +44,20 @@ public class ExempleList {
 
         boolean listaEstaVazia = nomes.isEmpty();
         System.out.println("isEmpty" + listaEstaVazia);
+
+        for (String nomeDoItem: nomes){
+            System.out.println("-->"+ nomeDoItem);
+        }
+
         nomes.clear();
         listaEstaVazia = nomes.isEmpty();
         System.out.println("Clear" + listaEstaVazia);
+
+        for (String nomeDoItem: nomes){
+            System.out.println(nomes);
+        }
+
+        
 
     }
 }

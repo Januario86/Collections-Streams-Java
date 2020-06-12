@@ -36,6 +36,9 @@ public class ExempleList {
         System.out.println(nome);
         System.out.println(tamanho);
 
+        boolean temCarlos = nome.contains("Carlos");
+
+        System.out.println(temCarlos);;
 
     }
 }

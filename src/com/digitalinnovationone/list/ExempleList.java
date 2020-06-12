@@ -2,6 +2,7 @@ package com.digitalinnovationone.list;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Iterator;
 import java.util.List;
 
 public class ExempleList {
@@ -49,6 +50,11 @@ public class ExempleList {
             System.out.println("-->"+ nomeDoItem);
         }
 
+        Iterator<String> iterator = nomes.iterator();
+        while (iterator.hasNext()){
+            System.out.println("--->"+ iterator.next());
+        }
+
         nomes.clear();
         listaEstaVazia = nomes.isEmpty();
         System.out.println("Clear" + listaEstaVazia);
@@ -57,7 +63,6 @@ public class ExempleList {
             System.out.println(nomes);
         }
 
-        
 
     }
 }

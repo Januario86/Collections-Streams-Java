@@ -17,3 +17,4 @@
 - [x] Valida se a lista está vazia isEmpty()
 - [x] Limpa a lista clear()
 - [x] ForEach para percorrer os elementos da lista
+- [x] Iterator com hasNext() para percorre a lista utilizando o while()

@@ -42,5 +42,11 @@ public class ExempleList {
 
         System.out.println(temCarlos);;
 
+        boolean listaEstaVazia = nomes.isEmpty();
+        System.out.println("isEmpty" + listaEstaVazia);
+        nomes.clear();
+        listaEstaVazia = nomes.isEmpty();
+        System.out.println("Clear" + listaEstaVazia);
+
     }
 }

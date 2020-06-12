@@ -14,3 +14,5 @@
 - [x] Verificando o tamanho de uma lista com o método size();
 - [x] Verificando se o valor do elemento existe através do método contains()
 - [x] Descobrindo a posição do elemento passando o valor como parâmetro, via indexOf()
+- [x] Valida se a lista está vazia isEmpty()
+- [x] Limpa a lista clear()

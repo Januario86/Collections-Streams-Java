@@ -13,3 +13,4 @@
 - [x] Utilizando o método get() para retornar o valor de um elemento em uma váriavel
 - [x] Verificando o tamanho de uma lista com o método size();
 - [x] Verificando se o valor do elemento existe através do método contains()
+- [x] Descobrindo a posição do elemento passando o valor como parâmetro, via indexOf()

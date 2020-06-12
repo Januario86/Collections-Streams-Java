@@ -27,6 +27,8 @@ public class ExempleList {
 
         nomes.remove( 3);
 
+        int posicao = nomes.indexOf("Carlos");
+        System.out.println("Posição" + posicao);
         System.out.println(nomes);
 
         String nome = nomes.get(1);

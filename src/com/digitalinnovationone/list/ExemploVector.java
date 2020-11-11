@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Vector;
 
-public class ExempleVector {
+public class ExemploVector {
     public static void main(String[] args) {
 
 

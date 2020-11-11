@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class ExempleList {
+public class ExemploList {
 
     public static void main(String[] args) {
         List<String> nomes = new ArrayList<>();
